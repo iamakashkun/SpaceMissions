@@ -9,6 +9,7 @@ Purpose of Analysis: This analysis aims to explore trends, mission success rates
 Data Cleaning: To ensure data integrity, the first step involved promoting headers for clear column identification. Rows with blank values were filtered out, eliminating inconsistencies. Handling missing values improved dataset reliability. Additionally, duplicates were removed, preventing redundancy and maintaining accuracy.
 
 ![image](https://github.com/iamakashkun/SpaceMissions/assets/148537108/d1ff51e5-77ff-40d1-b349-c1b6491585ad)
+(Preview of raw data)
 
 Data Transformation: In the Power Query Editor, data underwent a significant transformation. Data types were meticulously adjusted, ensuring proper alignment with analytical needs. Basic calculations were performed, specifically computing mission cost prices. Calculated fields were created to enhance analytical depth. Furthermore, relationships were established in the Model View of Power BI, providing a cohesive structure for seamless cross-variable analysis. These transformations ensured a clean, coherent dataset ready for in-depth analysis.
 
