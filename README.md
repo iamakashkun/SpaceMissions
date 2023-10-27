@@ -53,5 +53,9 @@ Recommendations: Based on the analysis, the following recommendations are propos
 By heeding these recommendations, the space industry can continue its upward trajectory, fostering innovation, collaboration, and sustainability, thus shaping a promising future for space exploration.
 
 VI. Acknowledgements and References:
-Acknowledgements: I thank Maven Analytics for providing the invaluable dataset used in this analysis. Their commitment to open data access enables meaningful explorations and insights within the data analytics community.
-References: The analysis utilized data sourced from Maven Analytics' Data Playground, accessible at: https://www.mavenanalytics.io/data-playground. This dataset formed the foundation of our research and findings, ensuring the accuracy and integrity of our analysis.
+Acknowledgements: I extend my gratitude to Maven Analytics for providing the invaluable dataset used in this analysis. Their commitment to open data access enables meaningful explorations and insights within the data analytics community.
+
+I also acknowledge the data provided by NextSpaceFlight (https://nextspaceflight.com/), which contributed to enriching the analysis and findings.
+
+References:
+The analysis utilized data sourced from Maven Analytics' Data Playground, accessible at: https://www.mavenanalytics.io/data-playground. This dataset formed the foundation of my research and findings, ensuring the accuracy and integrity of my analysis. Data from NextSpaceFlight (https://nextspaceflight.com/) was also utilized to enhance the depth of the analysis.
